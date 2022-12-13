@@ -1,0 +1,2406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<moviearchive>
+    <movies>
+        <movie>
+            <id>1</id>
+            <title>Rumba terapija</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Toni je pedesetogodišnji vozač školskog autobusa na selu koji je usamljenik i živi povučeno. Uznemiren srčanim udarom, odlučuje da se suoči sa svojom prošlošću i stupi u kontakt sa Marijom, ćerkom koju nikada nije poznavao, tako što će se upisati u školu plesa koju ona vodi. Ali… ne možete improvizovati rumbu! U svojim kaubojskim čizmama i džins jakni, Toni će morati dobro da se pomuči i potrudi kako bi se približio svojoj ćerki… i za to vreme će bolje upoznati sebe, ali i otvoriti se prema drugima.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 1.9.202</description>
+            <originaltitle>Rumba Therapy</originaltitle>
+            <director>
+                <director id="4">
+                    <ime>Franck</ime>
+                    <prezime>Dubosc</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="1">
+                    <ime>Franck</ime>
+                    <prezime>Dubosc</prezime>
+                </actors>
+                <actors id="2">
+                    <ime></ime>
+                    <prezime>Jean-Pierre Darroussin</prezime>
+                </actors>
+                <actors id="3">
+                    <ime></ime>
+                    <prezime>Launa Espinosa</prezime>
+                </actors>
+            </actors>
+            <duration>102</duration>
+            <genre>
+                <genre id="1">
+                    <name>komedija</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/rumba-terapija/8345//1</link>
+            <openingdate>1.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>3</id>
+            <title>Tri hiljade godina čežnje</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>Usamljena naučnica, na putovanju u Istanbul, otkriva Džina koji joj nudi tri želje u zamenu za svoju slobodu.
+&lt;br /&gt;Početak prikazivanja: 1.9.202</description>
+            <originaltitle>Three Thousand Years of Longing</originaltitle>
+            <director>
+                <director id="11">
+                    <ime>George</ime>
+                    <prezime>Miller</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="9">
+                    <ime>Tilda</ime>
+                    <prezime>Swinton</prezime>
+                </actors>
+                <actors id="10">
+                    <ime></ime>
+                    <prezime>Idris Elba</prezime>
+                </actors>
+            </actors>
+            <duration>108</duration>
+            <genre>
+                <genre id="2">
+                    <name>drama</name>
+                </genre>
+                <genre id="3">
+                    <name>fantazija</name>
+                </genre>
+                <genre id="4">
+                    <name>romantični</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\1273e250-0963-40eb-aeda-f6b4b9635d59.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/tri-hiljade-godina-ceznje/8256//1</link>
+            <openingdate>1.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>4</id>
+            <title>Tri tisuće godina čežnje</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Uspješna, ali usamljena akademkinja, dr. Alithea Binnie zadovoljna je svojim životom i stvorenje je razuma. Na konferenciji u Istanbulu susreće Djina koji joj nudi tri želje u zamjenu za svoju slobodu. Ovo predstavlja dva problema. Prvo, doktorica sumnja da je on uopće stvaran, a drugo, budući da je znanstvenica, zna vrlo dobro sve priče o ‘pogrešnim’ željama. Djin je pak nastoji uvjeriti u suprotno pričajući joj fantastične priče o svojoj prošlosti. U konačnici doktorica zaželi želju koja ih oboje iznenadi.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 1.9.202</description>
+            <originaltitle>Three Thousand Years of Longing</originaltitle>
+            <director>
+                <director id="11">
+                    <ime>George</ime>
+                    <prezime>Miller</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="9">
+                    <ime>Tilda</ime>
+                    <prezime>Swinton</prezime>
+                </actors>
+                <actors id="10">
+                    <ime></ime>
+                    <prezime>Idris Elba</prezime>
+                </actors>
+            </actors>
+            <duration>108</duration>
+            <genre>
+                <genre id="2">
+                    <name>drama</name>
+                </genre>
+                <genre id="3">
+                    <name>fantazija</name>
+                </genre>
+                <genre id="4">
+                    <name>romantični</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\1273e250-0963-40eb-aeda-f6b4b9635d59.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/tri-tisuce-godina-ceznje/8333//1</link>
+            <openingdate>1.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>5</id>
+            <title>Vatreno srce - sink</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Šesnaestogodišnja Georgia Nolan želi krenuti stopama svog oca i sanja o tome da bude prva vatrogaskinja na svijetu.&lt;br /&gt;
+Kad misteriozni piroman počne paliti seriju podmetnutih požara po Broadwayu, njujorški vatrogasci počinju misteriozno nestajati. Gradonačelnik New Yorka poziva Georgijina oca iz mirovine da vodi istragu o nestancima. Očajnički želeći pomoći ocu i spasiti svoj grad, Georgia se prerušava u mladića zvanog "Joe" i pridružuje se maloj skupini hrabrih vatrogasaca koji pokušavaju zaustaviti piromana.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 1.9.202</description>
+            <originaltitle>Fireheart</originaltitle>
+            <director>
+                <director id="18">
+                    <ime>Theodore</ime>
+                    <prezime>Ty</prezime>
+                </director>
+                <director id="19">
+                    <ime></ime>
+                    <prezime>Laurent Zeitoun</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="12">
+                    <ime>Zrinka</ime>
+                    <prezime>Cvitešić</prezime>
+                </actors>
+                <actors id="13">
+                    <ime></ime>
+                    <prezime>Živko Anočić</prezime>
+                </actors>
+                <actors id="14">
+                    <ime></ime>
+                    <prezime>Saša Buneta</prezime>
+                </actors>
+                <actors id="15">
+                    <ime></ime>
+                    <prezime>Lana Blaće</prezime>
+                </actors>
+                <actors id="16">
+                    <ime></ime>
+                    <prezime>Toma Medvešek</prezime>
+                </actors>
+                <actors id="17">
+                    <ime></ime>
+                    <prezime>Tin Rožman</prezime>
+                </actors>
+            </actors>
+            <duration>92</duration>
+            <genre>
+                <genre id="5">
+                    <name>animirani</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\5fd8e767-5020-4389-baeb-f48ef8d9e873.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/vatreno-srce-sink/8272//1</link>
+            <openingdate>1.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>6</id>
+            <title>Ajkula ljudožder</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>Nakon nesreće tokom njihovog odmora na rajskom ostrvu, grupu prijatelja uhodi velika ajkula.
+&lt;br /&gt;Početak prikazivanja: 8.9.202</description>
+            <originaltitle>Maneater</originaltitle>
+            <director>
+                <director id="23">
+                    <ime>Justin</ime>
+                    <prezime>Lee</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="20">
+                    <ime>Shane</ime>
+                    <prezime>West</prezime>
+                </actors>
+                <actors id="21">
+                    <ime></ime>
+                    <prezime>Nicky Whelan</prezime>
+                </actors>
+                <actors id="22">
+                    <ime></ime>
+                    <prezime>Jeff Fahey</prezime>
+                </actors>
+            </actors>
+            <duration>87</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="7">
+                    <name>triler</name>
+                </genre>
+                <genre id="8">
+                    <name>horor</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\5a8ea94d-9722-410b-a842-f0357ebf684a.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/ajkula-ljudozder/8255//1</link>
+            <openingdate>8.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>7</id>
+            <title>Ja sam Zlatan</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;„Ja sam Zlatan“ filmska je priča o Zlatanu Ibrahimoviću odnosno o njegovom odrastanju u neuglednom predgrađu švedskog grada. Kao sin imigranata s Balkana, nogomet je Zlatanu predstavljao oslobođenje od teške zajednice u kojoj je živio, a tijekom kojeg je pokazao svu veličinu svog nevjerojatnog talenta i samopouzdanja koji su ga kasnije, unatoč potpuno drugačijim predviđanjima, katapultirali u jednog od najvećih nogometnih igrača 21. stoljeća koji je zaigrao za klubove kao što su Ajax, Juventus, Inter, Milan, Barcelona, Paris Saint-Germain te Manchester United.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 8.9.202</description>
+            <originaltitle>I Am Zlatan</originaltitle>
+            <director>
+                <director id="27">
+                    <ime>Jens</ime>
+                    <prezime>Sjögren</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="24">
+                    <ime>Granit</ime>
+                    <prezime>Rushiti</prezime>
+                </actors>
+                <actors id="25">
+                    <ime></ime>
+                    <prezime>Čedomir Glisović</prezime>
+                </actors>
+                <actors id="26">
+                    <ime></ime>
+                    <prezime>Merima Dizdarević</prezime>
+                </actors>
+            </actors>
+            <duration>102</duration>
+            <genre>
+                <genre id="2">
+                    <name>drama</name>
+                </genre>
+                <genre id="9">
+                    <name>sportski</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\9390bfc4-37f7-4951-b690-66a067f1c1ed.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/ja-sam-zlatan/8299//1</link>
+            <openingdate>8.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>8</id>
+            <title>Kung Fu Zohra</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Uvjerena da će je razvod zauvijek odvojiti od kćeri, Zohra se ne može natjerati da napusti muža, unatoč njegovom nasilnom ponašanju. U tišini trpi njegove udarce, ali sve se mijenja kada upozna Chang Sue.&lt;br /&gt;
+Zohra je u početku zadovoljna svojim brakom s Omarom, ali njegova ljubomorna strana sve više izlazi na vidjelo. Kada je udari i odmah se krene ispričavati, Zohra mu želi oprostiti, kao što to čine mnoge žrtve obiteljskog nasilja. Tek kad on stvarno ode predaleko, Zohra shvaća da se mora od njega maknuti zauvijek. Međutim, odluka nije laka: imaju zajedničku kćer, koja voli svog oca.&lt;br /&gt;
+Zohra je oduvijek voljela kung fu filmove te počinje učiti azijsku borilačku vještinu. Pomaže joj tajanstveni zaštitar u teretani u kojoj radi. Korak po korak, Zohra radi na svom oslobođenju.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 8.9.202</description>
+            <originaltitle>Kung Fu Zohra</originaltitle>
+            <director>
+                <director id="31">
+                    <ime>Mabrouk</ime>
+                    <prezime>El Mechri</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="28">
+                    <ime>Sabrina</ime>
+                    <prezime>Ouazani</prezime>
+                </actors>
+                <actors id="29">
+                    <ime></ime>
+                    <prezime>Ramzy Bedia</prezime>
+                </actors>
+                <actors id="30">
+                    <ime></ime>
+                    <prezime>Eye Haidara</prezime>
+                </actors>
+            </actors>
+            <duration>100</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\a2c5abb8-6f5c-479e-9265-a55ddb578dcb.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/kung-fu-zohra/8274//1</link>
+            <openingdate>8.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>9</id>
+            <title>Sveta Petka - Krst u pustinji</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Pobožna devojka Paraskeva, napušta svoj život među ljudima u gradu Konstantinopolju i odlazi u Jordansku pustinju gde provodi narednih 40 godina svog života boreći se sa iskušenjima, gresima i unutarnjim demonima. Pratimo njen put od obične devojke do najvoljenije i najpoštovanije Svetiteljke Pravoslavlja.&lt;br /&gt;
+Bočna priča nam govori o dve žene (arapkinji Zejnebi iz beduinskog plemena i Paraskevi) koje potiču iz različitih kulturnih, socijalnih i verskih sredina, ali dele iste ljudske emocije, vrednosti i stvaraju neobično prijateljstvo svojim čistim srcima. Tokom boravka u pustinji, Zejneba je Paraskevin jedini prijatelj, ali i ogledalo i odraz spoljnjeg sveta koji je Paraskeva napustila.&lt;br /&gt;
+Film je nastao po istinitoj priči i romanu "Petkana" Ljiljane Habjanović Đurović.&lt;br /&gt;
+Ova priča nam govori kako ljudi mogu da pobede svoje slabosti. Teme filma su univerzalna moralna pitanja čovečanstva, što ga čini aktuelnim i danas, bilo gde na svetu.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 8.9.202</description>
+            <originaltitle>Sveta Petka - Krst u pustinji</originaltitle>
+            <director>
+                <director id="40">
+                    <ime>Hadži-Aleksandar</ime>
+                    <prezime>Đurović</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="32">
+                    <ime>Milena</ime>
+                    <prezime>Predić</prezime>
+                </actors>
+                <actors id="33">
+                    <ime></ime>
+                    <prezime>Milica Stefanović</prezime>
+                </actors>
+                <actors id="34">
+                    <ime></ime>
+                    <prezime>Filip Hajduković</prezime>
+                </actors>
+                <actors id="35">
+                    <ime></ime>
+                    <prezime>Jadranka Selec</prezime>
+                </actors>
+                <actors id="36">
+                    <ime></ime>
+                    <prezime>Daniel Sič</prezime>
+                </actors>
+                <actors id="37">
+                    <ime></ime>
+                    <prezime>Branislav Tomašević</prezime>
+                </actors>
+                <actors id="38">
+                    <ime></ime>
+                    <prezime>Andrej Šepetkovski</prezime>
+                </actors>
+                <actors id="39">
+                    <ime></ime>
+                    <prezime>Mladen Sovilj</prezime>
+                </actors>
+            </actors>
+            <duration>123</duration>
+            <genre>
+                <genre id="10">
+                    <name>biografska drama</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\48381a35-17c1-4bf6-8270-65506112515f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/sveta-petka-krst-u-pustinji/8346//1</link>
+            <openingdate>8.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>10</id>
+            <title>Dvostruka prijevara</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Dobitnik nagrade za najbolju režiju na filmskom festivalu u Cannesu! Novi film velikog južnokorejskog redatelja Parka Chana Wooka kriminalistička je drama koja prati policijskog detektiva Hae-joona (Park Hae-il) pozvanog da istraži tajanstvenu smrt muškarca koji je pao s planinskog vrha. Tijekom istrage detektiv počinje razvijati osjećaje prema udovici unesrećenog, Seo-rae (Tang Wei), koja je osumnjičena u slučaju.&lt;br /&gt;
+ &lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 15.9.202</description>
+            <originaltitle>Decision to Leave</originaltitle>
+            <director>
+                <director id="44">
+                    <ime>Park</ime>
+                    <prezime>Chan-wook</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="41">
+                    <ime>Tang</ime>
+                    <prezime>Wei</prezime>
+                </actors>
+                <actors id="42">
+                    <ime></ime>
+                    <prezime>Go Kyung-Pyo</prezime>
+                </actors>
+                <actors id="43">
+                    <ime></ime>
+                    <prezime>Park Hae-il</prezime>
+                </actors>
+            </actors>
+            <duration>138</duration>
+            <genre>
+                <genre id="2">
+                    <name>drama</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\efca5be5-9ed4-485a-977c-997f37c2e91b.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/dvostruka-prijevara/8301//1</link>
+            <openingdate>15.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>11</id>
+            <title>Pad</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Nakon što Dan pogine penjući se na Rocky Mountains, njegova djevojka Becky i njezina prijateljica Hunter odluče se popeti na golemi komunikacijski toranj, visok preko 600 metara, s kojeg žele baciti Danov pepeo. Na znatnoj udaljenosti od tla, kada dio istrošene konstrukcije tornja otpadne, njihov se uspon nepovratno zakomplicira. Ne mogu sići, ni tražiti pomoć putem mobitela, jer su totalno odsječene od civilizacije i mobilnog signala. Neće imati drugog izbora nego boriti se za preživljavanje.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 15.9.202</description>
+            <originaltitle>Fall</originaltitle>
+            <director>
+                <director id="48">
+                    <ime>Scott</ime>
+                    <prezime>Mann</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="45">
+                    <ime>Grace</ime>
+                    <prezime>Caroline Currey</prezime>
+                </actors>
+                <actors id="46">
+                    <ime></ime>
+                    <prezime>Virginia Gardner</prezime>
+                </actors>
+                <actors id="47">
+                    <ime></ime>
+                    <prezime>Jeffrey Dean Morgan</prezime>
+                </actors>
+            </actors>
+            <duration>107</duration>
+            <genre>
+                <genre id="7">
+                    <name>triler</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\5f49794b-8657-4dbd-a824-bd0971a0218e.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/pad/8336//1</link>
+            <openingdate>15.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>12</id>
+            <title>Avatar</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;&lt;span style="font-family:arial,sans-serif; font-size:10pt; line-height:107%"&gt;Nagradom Oscar&amp;reg; nagrađena epska avantura Jamesa Camerona iz 2009. godine, Avatar, film s najvećom zaradom svih vremena, vraća se u kina u zanosnom 4K visoko dinamičnom rasponu. Ljubitelji filmova će imati priliku istražiti daleki svijet Pandore u 2154. godini, u 3D, 4DX i IMAX formatu. U Avataru, koji je napisao i režirao dobitnik nagrade Oscar&amp;reg; James Cameron, glume Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez i Sigourney Weaver. Film su producirali James Cameron i Jon Landau. Avatar je bio nominiran za devet nagrada Oscar&amp;reg;, uključujući najbolji film i najbolji redatelj, a osvojio je tri nagrade Oscar&amp;reg; - za najbolju fotografiju, produkcijski dizajn i vizualne efekte.&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 22.9.202</description>
+            <originaltitle>Avatar</originaltitle>
+            <director>
+                <director id="52">
+                    <ime>James</ime>
+                    <prezime>Cameron</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="49">
+                    <ime>Sam</ime>
+                    <prezime>Worthington</prezime>
+                </actors>
+                <actors id="50">
+                    <ime></ime>
+                    <prezime>Zoe Saldana</prezime>
+                </actors>
+                <actors id="51">
+                    <ime></ime>
+                    <prezime>Sigourney Weaver</prezime>
+                </actors>
+            </actors>
+            <duration>163</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\1d996513-19e6-40c5-bdfe-777fd214ba65.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/avatar/8354//1</link>
+            <openingdate>22.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>13</id>
+            <title>Avatar 3D 4DX</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>Nagradom Oscar® nagrađena epska avantura Jamesa Camerona iz 2009. godine, Avatar, film s najvećom zaradom svih vremena, vraća se u kina u zanosnom 4K visoko dinamičnom rasponu. Ljubitelji filmova će imati priliku istražiti daleki svijet Pandore u 2154. godini, u 3D, 4DX i IMAX formatu. U Avataru, koji je napisao i režirao dobitnik nagrade Oscar® James Cameron, glume Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez i Sigourney Weaver. Film su producirali James Cameron i Jon Landau. Avatar je bio nominiran za devet nagrada Oscar®, uključujući najbolji film i najbolji redatelj, a osvojio je tri nagrade Oscar® - za najbolju fotografiju, produkcijski dizajn i vizualne efekte.
+&lt;br /&gt;Početak prikazivanja: 22.9.202</description>
+            <originaltitle>Avatar 3D 4DX</originaltitle>
+            <director>
+                <director id="52">
+                    <ime>James</ime>
+                    <prezime>Cameron</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="49">
+                    <ime>Sam</ime>
+                    <prezime>Worthington</prezime>
+                </actors>
+                <actors id="50">
+                    <ime></ime>
+                    <prezime>Zoe Saldana</prezime>
+                </actors>
+                <actors id="51">
+                    <ime></ime>
+                    <prezime>Sigourney Weaver</prezime>
+                </actors>
+            </actors>
+            <duration>163</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\1d996513-19e6-40c5-bdfe-777fd214ba65.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/avatar-3d-4dx/8355//1</link>
+            <openingdate>22.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>14</id>
+            <title>Avatar 3D IMAX 3DDDDD</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>Nagradom Oscar® nagrađena epska avantura Jamesa Camerona iz 2009. godine, Avatar, film s najvećom zaradom svih vremena, vraća se u kina u zanosnom 4K visoko dinamičnom rasponu. Ljubitelji filmova će imati priliku istražiti daleki svijet Pandore u 2154. godini, u 3D, 4DX i IMAX formatu. U Avataru, koji je napisao i režirao dobitnik nagrade Oscar® James Cameron, glume Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez i Sigourney Weaver. Film su producirali James Cameron i Jon Landau. Avatar je bio nominiran za devet nagrada Oscar®, uključujući najbolji film i najbolji redatelj, a osvojio je tri nagrade Oscar® - za najbolju fotografiju, produkcijski dizajn i vizualne efekte.
+&lt;br /&gt;Početak prikazivanja: 22.9.202</description>
+            <originaltitle>Avatar 3D IMAX</originaltitle>
+            <director>
+                <director id="52">
+                    <ime>James</ime>
+                    <prezime>Cameron</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="126">
+                    <ime>James</ime>
+                    <prezime>Cameron</prezime>
+                </actors>
+            </actors>
+            <duration>163</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\1d996513-19e6-40c5-bdfe-777fd214ba65.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/avatar-3d-imax/8356//1</link>
+            <openingdate>22.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>15</id>
+            <title>Ne brini draga</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Alis i Džek imaju sreće što žive u idealizovanoj zajednici „Viktorija“, eksperimentalnom kompanijskom gradu u kom žive muškarci koji rade za tajni projekat „Viktorija“ i njihove porodice. Društveni optimizam iz 1950-ih koji je zastupao njihov izvršni direktor Frenk – korporativni vizionarski i motivacioni životni trener – usidrio se u svaki aspekt svakodnevnog života u tesno povezanoj pustinjskoj utopiji. Dok muževi provode svaki dan u sedištu projekta „Viktorija“, radeći na „razvoju progresivnih materijala“, njihove žene – uključujući Frenkovu elegantnu partnerku Šeli – provode vreme uživajući u lepoti, luksuzu i razvratu svoje zajednice. Život je savršen, a potrebe svakog stanara ispunjava kompanija. Sve što traže zauzvrat je diskrecija i neupitna posvećenost cilju pobede. Ali kada počnu da se pojavljuju pukotine u njihovom idiličnom životu, otkrivajući bljeskove nečeg mnogo zlokobnijeg što vreba ispod atraktivne fasade, Alisa ne može, a da ne dovede u pitanje šta tačno rade u „Viktoriji“ i zašto. Koliko je Alisa spremna da izgubi da bi otkrila šta se zaista dešava u ovom raju?&lt;/div&gt;
+
+&lt;br /&gt;Početak prikazivanja: 22.9.202</description>
+            <originaltitle>Don’t Worry Darling</originaltitle>
+            <director>
+                <director id="58">
+                    <ime>Olivia</ime>
+                    <prezime>Wilde</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="53">
+                    <ime>Florence</ime>
+                    <prezime>Pugh</prezime>
+                </actors>
+                <actors id="54">
+                    <ime></ime>
+                    <prezime>Harry Styles</prezime>
+                </actors>
+                <actors id="55">
+                    <ime></ime>
+                    <prezime>Olivia Wilde</prezime>
+                </actors>
+                <actors id="56">
+                    <ime></ime>
+                    <prezime>Gemma Chan</prezime>
+                </actors>
+                <actors id="57">
+                    <ime></ime>
+                    <prezime>	Chris Pine</prezime>
+                </actors>
+            </actors>
+            <duration>122</duration>
+            <genre>
+                <genre id="7">
+                    <name>triler</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\b37ccac4-3c64-4604-a8d7-296aa6519180.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/ne-brini-draga/8262//1</link>
+            <openingdate>22.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>16</id>
+            <title>Put oko sveta za 80 dana - sinh</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Paspartu je mlad i učeni marmozet koji sanja da postane istraživač. Jednog dana, on upoznaje Fileja, nepromišljenog i pohlepnog žabca, koji želi da se opkladi da će oploviti svet za 80 dana i zaradite 10 miliona školjki u tom procesu. Iskoristivši priliku koju čeka ceo svoj život, da istražuje svet, Paspartu kreće sa svojim novim prijateljem u ludu i uzbudljiva avanturu punu obrta i iznenađenja.&lt;br /&gt;
+ &lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 22.9.202</description>
+            <originaltitle>Around the World in 80 Days</originaltitle>
+            <director>
+                <director id="59">
+                    <ime>Samuel</ime>
+                    <prezime>Tourneux</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>82</duration>
+            <genre>
+                <genre id="5">
+                    <name>animirani</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\1f3cf69f-e764-4b77-822d-2bd897974023.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/put-oko-sveta-za-80-dana-sinh/8261//1</link>
+            <openingdate>22.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>17</id>
+            <title>Put oko svijeta za 80 dana - sink</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Simpatični minijaturni Passepartout je mladi znanstvenik koji oduvijek sanja o tome da postane veliki istraživač. Jednog dana, on se susreće s Phileasom, žapcem koji prihvaća okladu da će u 80 dana obići svijet. Iskoristivši životnu priliku u kojoj će obići niz egzotičnih zemalja, Passepartout kreće sa svojim novim prijateljem u ludu i uzbudljivu avanturu punu obrata i iznenađenja.&lt;br /&gt;
+ &lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 22.9.202</description>
+            <originaltitle>Around the World in 80 Days</originaltitle>
+            <director>
+                <director id="59">
+                    <ime>Samuel</ime>
+                    <prezime>Tourneux</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>82</duration>
+            <genre>
+                <genre id="5">
+                    <name>animirani</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\1f3cf69f-e764-4b77-822d-2bd897974023.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/put-oko-svijeta-za-80-dana-sink/8337//1</link>
+            <openingdate>22.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>18</id>
+            <title>Madam Baterflaj</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Ljubav ne ubija već donosi novi život&lt;br /&gt;
+Tokom zvezdane noći u Nagasakiju, upravo je te reči mladoj gejši Cio – Cio San izgovorio oficir Američke ratne mornarice. Ali kako su oboje naučili, reči i obećanja nesmotreno izgovoreni, mogu imati dugoročne posledice.&lt;br /&gt;
+S pozorišnim komadom koji uključuje i ariju od Butterfly, Un bel di, vedremo I “Humming Chorus”, opera Giacoma Puccinija je prelepa i u celosti srceparajuća. Za ovu izuzetnu produkciju opera, Moshe Leiser i Patrice Caurier, inspiraciju su crpili iz evropskog poimanja Japana tokom 19. veka.&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;Početak prikazivanja: 27.9.202</description>
+            <originaltitle>Madama Butterfly</originaltitle>
+            <director/>
+            <actors/>
+            <duration>190</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/madam-baterflaj/8305//1</link>
+            <openingdate>27.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>19</id>
+            <title>Madama Butterfly</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Ljubav ne ubija već donosi novi život&lt;br /&gt;
+Tijekom zvjezdane noći u Nagasakiju, upravo je te riječi mladoj gejši Cio – Cio San izgovorio časnike Američke ratne mornarice. Ali kako su oboje naučili, riječi I obećanja nesmotreno izgovoreni, mogu imati dalekosežne posljedice.&lt;br /&gt;
+S kazališnim komadom koji uključuje i ariju od Butterfly, Un bel di, vedremo I “Humming Chorus”, opera Giacoma Puccinija je prekrasna i u cijelosti srcedrapajuća. Za ovu izuzetnu produkciju opera, Moshe Leiser I Patrice Caurier, inspiraciju su crpili iz europskog poimanja Japana iz 19. stoljeća.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 27.9.202</description>
+            <originaltitle>Madame Butterfly</originaltitle>
+            <director/>
+            <actors/>
+            <duration>190</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/madama-butterfly/8318//1</link>
+            <openingdate>27.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>20</id>
+            <title>Dobra kuća</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Život agentkinje za nekretnine u Novoj Engleskoj Hildi Gud počinje da se raspliće kada se ponovo poveže sa svojim starim iskrama iz Njujorka.&lt;br /&gt;
+Zasnovano na knjizi The Good House spisateljice En Liri.&lt;/div&gt;
+
+&lt;br /&gt;Početak prikazivanja: 29.9.202</description>
+            <originaltitle>The Good House</originaltitle>
+            <director>
+                <director id="63">
+                    <ime>Maya</ime>
+                    <prezime>Forbes</prezime>
+                </director>
+                <director id="64">
+                    <ime></ime>
+                    <prezime>Wallace Wolodarsky</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="60">
+                    <ime>Sigourney</ime>
+                    <prezime>Weaver</prezime>
+                </actors>
+                <actors id="61">
+                    <ime></ime>
+                    <prezime>Kevin Kline</prezime>
+                </actors>
+                <actors id="62">
+                    <ime></ime>
+                    <prezime>Morena Baccarin</prezime>
+                </actors>
+            </actors>
+            <duration>114</duration>
+            <genre>
+                <genre id="1">
+                    <name>komedija</name>
+                </genre>
+                <genre id="2">
+                    <name>drama</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\20b47004-b991-4f03-a514-3db1415cec20.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/dobra-kuca/8263//1</link>
+            <openingdate>29.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>21</id>
+            <title>Moonage Daydream</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Moonage Daydream osvjetljava život i genijalnost Davida Bowieja, jednog od najplodnijih i najutjecajnijih umjetnika našeg vremena i prvi je film koji je podržao David Bowie Estate, koji je redatelju omogućio neviđeni pristup njihovoj kolekciji.&lt;br /&gt;
+Ispričan uzvišenim, kaleidoskopskim slikama, osobnim arhiviranim snimkama, neviđenim izvedbama, te utemeljen glazbom i riječima Davida Bowieja, MOONAGE DAYDREAM poziva publiku da urone u jedinstveni svijet koji je "Bowie".&lt;br /&gt;
+Godine 2018. Morgenu je dodijeljen pristup bez presedana Bowiejevom arhivu koji obuhvaća cijeli životni materijal, uključujući opsežan katalog neviđenih snimaka i osobnu kolekciju njegove vlastite umjetnosti i poezije. Morgen je proveo četiri godine sklapajući film i još 18 mjeseci dizajnirajući zvučnu kulisu, animacije i paletu boja.&lt;br /&gt;
+Tijekom svoje karijere, kroz generacije, Bowie nas je učio da su naše razlike naše snage.&lt;br /&gt;
+S MOONAGE DAYDREAM, Bowie nam daje putokaz kako preživjeti 21. stoljeće, pozivajući publiku da slavi njegovu ostavštinu kao nikada prije.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 29.9.202</description>
+            <originaltitle>Moonage Daydream</originaltitle>
+            <director>
+                <director id="66">
+                    <ime>Brett</ime>
+                    <prezime>Morgen</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="65">
+                    <ime>David</ime>
+                    <prezime>Bowie</prezime>
+                </actors>
+            </actors>
+            <duration>140</duration>
+            <genre>
+                <genre id="14">
+                    <name>glazbeni</name>
+                </genre>
+                <genre id="15">
+                    <name>dokumentarni</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/moonage-daydream/8347//1</link>
+            <openingdate>29.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>22</id>
+            <title>Osmeh</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Nakon što je bila svedok bizarnog, traumatičnog događaja u koji je bio umešan i jedan pacijent, doktorka Rouz Koter počinje da oseća zastrašujuće pojave koje ne može da objasni. Dok nezamislivi užas polako obuzima njen život, Rouz mora da se suoči sa svojom problematičnom prošlošću, kako bi preživela i pobegla od svoje zastrašujuće, nove stvarnosti.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 29.9.202</description>
+            <originaltitle>Smile</originaltitle>
+            <director>
+                <director id="74">
+                    <ime>Parker</ime>
+                    <prezime>Finn</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="67">
+                    <ime>Sosie</ime>
+                    <prezime>Bacon</prezime>
+                </actors>
+                <actors id="68">
+                    <ime></ime>
+                    <prezime>Jessie T. Usher</prezime>
+                </actors>
+                <actors id="69">
+                    <ime></ime>
+                    <prezime>Kyle Gallner</prezime>
+                </actors>
+                <actors id="70">
+                    <ime></ime>
+                    <prezime>Robin Weigert</prezime>
+                </actors>
+                <actors id="71">
+                    <ime></ime>
+                    <prezime>Caitlin Stasey</prezime>
+                </actors>
+                <actors id="72">
+                    <ime></ime>
+                    <prezime>Kal Penn</prezime>
+                </actors>
+                <actors id="73">
+                    <ime></ime>
+                    <prezime>Rob Morgan</prezime>
+                </actors>
+            </actors>
+            <duration>115</duration>
+            <genre>
+                <genre id="8">
+                    <name>horor</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\c1b13b18-4f20-46bc-98bf-c39c5f7953c8.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/osmeh/8331//1</link>
+            <openingdate>29.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>23</id>
+            <title>Smiješak</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Nakon što je bila svjedok bizarnog, traumatičnog događaja u koji je bio umiješan i jedan pacijent, doktorica Rose Cotter počinje osjećati zastrašujuće pojave koje ne može objasniti. Dok nezamislivi užas počinje obuzimati njezin život, Rose se mora suočiti sa svojom problematičnom prošlošću, kako bi preživjela i pobjegla od zastrašujuće, nove stvarnosti.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 29.9.202</description>
+            <originaltitle>Smile</originaltitle>
+            <director>
+                <director id="74">
+                    <ime>Parker</ime>
+                    <prezime>Finn</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="67">
+                    <ime>Sosie</ime>
+                    <prezime>Bacon</prezime>
+                </actors>
+                <actors id="68">
+                    <ime></ime>
+                    <prezime>Jessie T. Usher</prezime>
+                </actors>
+                <actors id="69">
+                    <ime></ime>
+                    <prezime>Kyle Gallner</prezime>
+                </actors>
+                <actors id="70">
+                    <ime></ime>
+                    <prezime>Robin Weigert</prezime>
+                </actors>
+                <actors id="71">
+                    <ime></ime>
+                    <prezime>Caitlin Stasey</prezime>
+                </actors>
+                <actors id="72">
+                    <ime></ime>
+                    <prezime>Kal Penn</prezime>
+                </actors>
+                <actors id="73">
+                    <ime></ime>
+                    <prezime>Rob Morgan</prezime>
+                </actors>
+            </actors>
+            <duration>115</duration>
+            <genre>
+                <genre id="8">
+                    <name>horor</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\c1b13b18-4f20-46bc-98bf-c39c5f7953c8.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/smijesak/8339//1</link>
+            <openingdate>29.9.2022</openingdate>
+        </movie>
+        <movie>
+            <id>24</id>
+            <title>Majerling</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Inspirisan mračnim i uzbudljivim događajima iz stvarnog života, ovaj klasik Royal baleta prikazuje seksualne i morbidne opsesije prestolonaslednika Rudolfa koje su dovele do skandala ubistva i samoubistva sa njegovom ljubavnicom Mary Vetsera. Opresivni glamur austrougarskog dvora 1880-ih idealno je vreme za napetu dramu psiholoških i političkih intriga dok se Rudolf bavi sopstvenom smrtnošću.&lt;br /&gt;
+Balet Kennetha MacMillana iz 1978. ostaje remek-delo pripovedanja, a ovo uprizorenje obeležava 30 godina od koreografove smrti. Očekujte Royal balet u njegovom dramatičnom vrhuncu kroz moćne scene ansambla i neke od najhrabrijih i emocionalno najzahtevnijih pas de deux-ova na baletnom repertoaru.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 5.10.202</description>
+            <originaltitle>Mayerling</originaltitle>
+            <director>
+                <director id="75">
+                    <ime>Koen</ime>
+                    <prezime>Kessels</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>205</duration>
+            <genre>
+                <genre id="16">
+                    <name>balet</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/majerling/8306//1</link>
+            <openingdate>5.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>25</id>
+            <title>Mayerling</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Inspiriran mračnim i uzbudljivim događajima iz stvarnog života, ovaj klasik Royal baleta prikazuje seksualne i morbidne opsesije prijestolonasljednika Rudolfa koje su dovele do skandala ubojstva i samoubojstva s njegovom ljubavnicom Mary Vetsera. Opresivni glamur austrougarskog dvora 1880-ih idealno je vrijeme za napetu dramu psiholoških i političkih intriga dok se Rudolf  bavi vlastitom smrtnošću.&lt;br /&gt;
+Balet Kennetha MacMillana iz 1978. ostaje remek-djelo pripovijedanja, a ovo uprizorenje obilježava 30 godina od koreografove smrti. Očekujte Royal belt u njegovom dramatičnom vrhuncu kroz moćne scene ansambla i neke od najhrabrijih i emocionalno najzahtjevnijih pas de deux-ova na baletnom repertoaru.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 5.10.202</description>
+            <originaltitle>Mayerling</originaltitle>
+            <director>
+                <director id="75">
+                    <ime>Koen</ime>
+                    <prezime>Kessels</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>205</duration>
+            <genre>
+                <genre id="16">
+                    <name>balet</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/mayerling/8319//1</link>
+            <openingdate>5.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>26</id>
+            <title>Amsterdam</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Radnja smeštena u 30-te, prati tri prijatelja koji su svedoci ubistva, sami postaju osumnjičeni i otkrivaju jednu od najneverovatnijih zavera u američkoj istoriji.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 6.10.202</description>
+            <originaltitle>Amsterdam</originaltitle>
+            <director>
+                <director id="79">
+                    <ime>David</ime>
+                    <prezime>O. Russell</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="76">
+                    <ime>Margot</ime>
+                    <prezime>Robbie</prezime>
+                </actors>
+                <actors id="77">
+                    <ime></ime>
+                    <prezime>Anya Taylor-Joy</prezime>
+                </actors>
+                <actors id="78">
+                    <ime></ime>
+                    <prezime>Christian Bale</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="2">
+                    <name>drama</name>
+                </genre>
+                <genre id="17">
+                    <name>istorijski</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\f3d31250-7e15-4327-bbf4-6221b9539792.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/amsterdam/8343//1</link>
+            <openingdate>6.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>27</id>
+            <title>Aida</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Princeza Aida, dragocen plen iz rata između Egipta i Etiopije- je oteta. U međuvremenu, ambiciozni vojnik Radames bori se sa svojim osjećanjima prema Aidi. Kako se zbližavaju, oboje moraju napraviti mučan izbor između odanosti prema domu i međusobnoj ljubavi.&lt;br /&gt;
+U ovoj novoj produkciji, reditelj Robert Carsen smešta Verdijevu političku dramu velikih razmera u savremeni svet, smeštajući borbu za moć i otrovnu ljubomoru u kontekst moderne, totalitarne države. Muzički direktor Royal Opere Antonio Pappano diriguje Verdijevom slavnom, monumentalnom partiturom.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 12.10.202</description>
+            <originaltitle>Aida</originaltitle>
+            <director>
+                <director id="80">
+                    <ime>Robert</ime>
+                    <prezime>Carsen</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>205</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\c1b13b18-4f20-46bc-98bf-c39c5f7953c8.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/aida/8307//1</link>
+            <openingdate>12.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>28</id>
+            <title>Black Adam</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;DC i Warner Bros. predstavljaju novog antiheroja čiju će glavnu ulogu preuzeti legendarni The Rock. Black Adam je Johnsonov veliki projekt koji svaki glumac doživi jednom u životu.&lt;br /&gt;
+Gotovo 5.000 godina nakon što je dobio sve moći egipatskih bogova te isto tako bio zatvoren, Black Adam oslobođen je iz svoje zemaljske grobnice, spreman osloboditi svoj jedinstveni oblik pravde u modernom svijetu.&lt;br /&gt;
+Black Adam donosi neke od najvećih filmskih borbi ove godine.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 20.10.202</description>
+            <originaltitle>Black Adam</originaltitle>
+            <director>
+                <director id="86">
+                    <ime>Jaume</ime>
+                    <prezime>Collet-Serra</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="81">
+                    <ime>Dwayne</ime>
+                    <prezime>Johnson</prezime>
+                </actors>
+                <actors id="82">
+                    <ime></ime>
+                    <prezime>Sarah Shahi</prezime>
+                </actors>
+                <actors id="83">
+                    <ime></ime>
+                    <prezime>Noah Centineo</prezime>
+                </actors>
+                <actors id="84">
+                    <ime></ime>
+                    <prezime>Pierce Brosnan</prezime>
+                </actors>
+                <actors id="85">
+                    <ime></ime>
+                    <prezime>Aldis Hodge</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\5aeec123-e506-4afd-813e-3633e695c985.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/black-adam/8275//1</link>
+            <openingdate>20.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>29</id>
+            <title>Black Adam 4DX</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;DC i Warner Bros. predstavljaju novog antiheroja čiju će glavnu ulogu preuzeti legendarni The Rock. Black Adam je Johnsonov veliki projekt koji svaki glumac doživi jednom u životu.&lt;br /&gt;
+Gotovo 5.000 godina nakon što je dobio sve moći egipatskih bogova te isto tako bio zatvoren, Black Adam oslobođen je iz svoje zemaljske grobnice, spreman osloboditi svoj jedinstveni oblik pravde u modernom svijetu.&lt;br /&gt;
+Black Adam donosi neke od najvećih filmskih borbi ove godine.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 20.10.202</description>
+            <originaltitle>Black Adam 4DX</originaltitle>
+            <director>
+                <director id="86">
+                    <ime>Jaume</ime>
+                    <prezime>Collet-Serra</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="81">
+                    <ime>Dwayne</ime>
+                    <prezime>Johnson</prezime>
+                </actors>
+                <actors id="82">
+                    <ime></ime>
+                    <prezime>Sarah Shahi</prezime>
+                </actors>
+                <actors id="83">
+                    <ime></ime>
+                    <prezime>Noah Centineo</prezime>
+                </actors>
+                <actors id="84">
+                    <ime></ime>
+                    <prezime>Pierce Brosnan</prezime>
+                </actors>
+                <actors id="85">
+                    <ime></ime>
+                    <prezime>Aldis Hodge</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\5aeec123-e506-4afd-813e-3633e695c985.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/black-adam-4dx/8276//1</link>
+            <openingdate>20.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>30</id>
+            <title>Black Adam IMAX</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;DC i Warner Bros. predstavljaju novog antiheroja čiju će glavnu ulogu preuzeti legendarni The Rock. Black Adam je Johnsonov veliki projekt koji svaki glumac doživi jednom u životu.&lt;br /&gt;
+Gotovo 5.000 godina nakon što je dobio sve moći egipatskih bogova te isto tako bio zatvoren, Black Adam oslobođen je iz svoje zemaljske grobnice, spreman osloboditi svoj jedinstveni oblik pravde u modernom svijetu.&lt;br /&gt;
+Black Adam donosi neke od najvećih filmskih borbi ove godine.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 20.10.202</description>
+            <originaltitle>Black Adam IMAX</originaltitle>
+            <director>
+                <director id="86">
+                    <ime>Jaume</ime>
+                    <prezime>Collet-Serra</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="81">
+                    <ime>Dwayne</ime>
+                    <prezime>Johnson</prezime>
+                </actors>
+                <actors id="82">
+                    <ime></ime>
+                    <prezime>Sarah Shahi</prezime>
+                </actors>
+                <actors id="83">
+                    <ime></ime>
+                    <prezime>Noah Centineo</prezime>
+                </actors>
+                <actors id="84">
+                    <ime></ime>
+                    <prezime>Pierce Brosnan</prezime>
+                </actors>
+                <actors id="85">
+                    <ime></ime>
+                    <prezime>Aldis Hodge</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\5aeec123-e506-4afd-813e-3633e695c985.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/black-adam-imax/8277//1</link>
+            <openingdate>20.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>31</id>
+            <title>Boemi</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Pariz, 1900. Siromašni pisac Rodolfo veruje da je umetnost sve što mu je potrebno za život - sve dok ne upozna Mimi, usamljenu krojačicu koja živi na spratu. Tako počinje bezvremenska ljubavna priča koja cveta, bledi i ponovno se razbuktava sa svakim novim godišnjim dobom. Ali dok se prijatelji para, Marcello i Musetta, strastveno svađaju i mire, Rodolfu i Mimi preti sila veća od ljubavi.&lt;br /&gt;
+Produkcija Richarda Jonesa evocira živopisne kontraste s kraja 20. veka, od boemskih stanova do svetlucavih arkada.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 20.10.202</description>
+            <originaltitle>La Boheme</originaltitle>
+            <director>
+                <director id="87">
+                    <ime>Richard</ime>
+                    <prezime>Jones</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>180</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\9cfc838a-cca1-4314-89bb-819b1efc7b49.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/boemi/8308//1</link>
+            <openingdate>20.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>32</id>
+            <title>Crni Adam</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;DC i Warner Bros. predstavljaju novog antiheroja čiju će glavnu ulogu preuzeti legendarni The Rock. Crni Adam je Džonsonov veliki projekt koji svaki glumac doživi jednom u životu.&lt;br /&gt;
+Gotovo 5.000 godina nakon što je dobio sve moći egipatskih bogova i isto tako bio zatvoren, Crni Adam oslobođen je iz svoje zemaljske grobnice, spreman da oslobodi  svoj jedinstveni oblik pravde u modernom svetu. Crni Adam donosi neke od najvećih filmskih borbi ove godine.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 20.10.202</description>
+            <originaltitle>Black Adam</originaltitle>
+            <director>
+                <director id="86">
+                    <ime>Jaume</ime>
+                    <prezime>Collet-Serra</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="81">
+                    <ime>Dwayne</ime>
+                    <prezime>Johnson</prezime>
+                </actors>
+                <actors id="82">
+                    <ime></ime>
+                    <prezime>Sarah Shahi</prezime>
+                </actors>
+                <actors id="83">
+                    <ime></ime>
+                    <prezime>Noah Centineo</prezime>
+                </actors>
+                <actors id="84">
+                    <ime></ime>
+                    <prezime>Pierce Brosnan</prezime>
+                </actors>
+                <actors id="85">
+                    <ime></ime>
+                    <prezime>Aldis Hodge</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\5aeec123-e506-4afd-813e-3633e695c985.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/crni-adam/8287//1</link>
+            <openingdate>20.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>33</id>
+            <title>Crni Adam 4DX</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;DC i Warner Bros. predstavljaju novog antiheroja čiju će glavnu ulogu preuzeti legendarni The Rock. Crni Adam je Džonsonov veliki projekt koji svaki glumac doživi jednom u životu.&lt;br /&gt;
+Gotovo 5.000 godina nakon što je dobio sve moći egipatskih bogova i isto tako bio zatvoren, Crni Adam oslobođen je iz svoje zemaljske grobnice, spreman da oslobodi  svoj jedinstveni oblik pravde u modernom svetu. Crni Adam donosi neke od najvećih filmskih borbi ove godine.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 20.10.202</description>
+            <originaltitle>Black Adam 4DX</originaltitle>
+            <director>
+                <director id="86">
+                    <ime>Jaume</ime>
+                    <prezime>Collet-Serra</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="81">
+                    <ime>Dwayne</ime>
+                    <prezime>Johnson</prezime>
+                </actors>
+                <actors id="82">
+                    <ime></ime>
+                    <prezime>Sarah Shahi</prezime>
+                </actors>
+                <actors id="83">
+                    <ime></ime>
+                    <prezime>Noah Centineo</prezime>
+                </actors>
+                <actors id="84">
+                    <ime></ime>
+                    <prezime>Pierce Brosnan</prezime>
+                </actors>
+                <actors id="85">
+                    <ime></ime>
+                    <prezime>Aldis Hodge</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\5aeec123-e506-4afd-813e-3633e695c985.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/crni-adam-4dx/8288//1</link>
+            <openingdate>20.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>34</id>
+            <title>Đavolji plen</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Neki su rođeni za egzorcizam.&lt;br /&gt;
+Katolička crkva se bori protiv globalnog porasta opsednutosti demonima otvaranjem škole za obuku sveštenika koji će provoditi obrede egzorcizma. Na ovom duhovnom bojnom polju pojavljuje se neobičan ratnik: mlada časna sestra En. Iako je časnim sestrama zabranjeno da izvode egzorcizme, profesor prepoznaje njenu nadarenost i pristaje da je trenira. Uz podršku mentora, dopušteno joj je da posmatra i prisustvuje stvarnim praksama. Kada se susretne s jednim od najtežih slučajeva, splasnuće njena želja i volja za dokazivanjem. Tokom tih mučnih susreta, sestra En suočava se licem u lice s demonskom silom koja napada ustanovu u kojoj radi i ima tajanstvene veze s njenom prošlošću. Tada se moć zla i njene vlastite zapanjujuće sposobnosti u potpunosti razotkrivaju.&lt;/div&gt;
+
+&lt;br /&gt;Početak prikazivanja: 20.10.202</description>
+            <originaltitle>Prey for the Devil</originaltitle>
+            <director>
+                <director id="92">
+                    <ime>Daniel</ime>
+                    <prezime>Stamm</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="88">
+                    <ime>Virginia</ime>
+                    <prezime>Madsen</prezime>
+                </actors>
+                <actors id="89">
+                    <ime></ime>
+                    <prezime>Jacqueline Byers</prezime>
+                </actors>
+                <actors id="90">
+                    <ime></ime>
+                    <prezime>Colin Salmon</prezime>
+                </actors>
+                <actors id="91">
+                    <ime></ime>
+                    <prezime>Ben Cross</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="8">
+                    <name>horor</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\db7a4ed9-0ba4-46fc-a901-2363398d3ec5.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/djavolji-plen/8303//1</link>
+            <openingdate>20.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>35</id>
+            <title>Đavolji plijen</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Neki su rođeni za egzorcizam.&lt;br /&gt;
+Katolička se crkva bori protiv globalnog porasta opsjednutosti demonima otvaranjem škole za obuku svećenika koji će provoditi obrede egzorcizma. Na ovom duhovnom bojnom polju pojavljuje se neobičan ratnik: mlada redovnica, sestra Ann. Iako je časnim sestrama zabranjeno izvoditi egzorcizme, profesor prepoznaje njezinu nadarenost i pristaje je trenirati. Uz podršku mentora, dopušteno joj je promatrati stvarne prakse. Kada se susretne s jednim od najtežih slučajeva, splasnut će njezina želja i volja za dokazivanjem. Tijekom tih mučnih susreta, sestra Ann suočava se licem u lice s demonskom silom koja napada ustanovu u kojoj radi i ima tajanstvene veze s njezinom prošlošću. Tada se moć zla i njezine vlastite zapanjujuće sposobnosti u potpunosti razotkrivaju.&lt;/div&gt;
+
+&lt;br /&gt;Početak prikazivanja: 20.10.202</description>
+            <originaltitle>Prey for the Devil</originaltitle>
+            <director>
+                <director id="92">
+                    <ime>Daniel</ime>
+                    <prezime>Stamm</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="88">
+                    <ime>Virginia</ime>
+                    <prezime>Madsen</prezime>
+                </actors>
+                <actors id="89">
+                    <ime></ime>
+                    <prezime>Jacqueline Byers</prezime>
+                </actors>
+                <actors id="90">
+                    <ime></ime>
+                    <prezime>Colin Salmon</prezime>
+                </actors>
+                <actors id="91">
+                    <ime></ime>
+                    <prezime>Ben Cross</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="8">
+                    <name>horor</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\db7a4ed9-0ba4-46fc-a901-2363398d3ec5.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/djavolji-plijen/8296//1</link>
+            <openingdate>20.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>36</id>
+            <title>La Boheme</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Pariz, 1900. Siromašni pisac Rodolfo vjeruje da je umjetnost sve što mu je potrebno za život - sve dok ne upozna Mimi, usamljenu krojačicu koja živi na katu. Tako počinje bezvremenska ljubavna priča koja cvjeta, blijedi i ponovno se razbuktava sa svakim novim godišnjim dobom. Ali dok se prijatelji para, Marcello i Musetta, strastveno svađaju i mire, Rodolfu i Mimi prijeti sila veća od ljubavi.&lt;br /&gt;
+Produkcija Richarda Jonesa evocira živopisne kontraste s kraja 20, stoljeća, od boemskih stanova do svjetlucavih arkada.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 20.10.202</description>
+            <originaltitle>La Boheme</originaltitle>
+            <director>
+                <director id="87">
+                    <ime>Richard</ime>
+                    <prezime>Jones</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>180</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/la-boheme/8321//1</link>
+            <openingdate>20.10.2022</openingdate>
+        </movie>
+        <movie>
+            <id>37</id>
+            <title>Black Panther: Wakanda Zauvijek</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Nastavak filma Black Panther iz 2018. godine koji je diljem svijeta zaradio preko $1.34 milijarde dolara. Film je oduševio kritičare i publiku, a na Rotten Tomatoes drži 96%. Uz to, film je osvojio i tri Oscara, za najbolju originalnu glazbu, najbolji dizajn kostima i najbolju scenografiju.&lt;br /&gt;
+U novom nastavku Marvel Studios neće promijeniti lik, već će istražiti svijet Wakande i likove predstavljene u prvom filmu.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 10.11.202</description>
+            <originaltitle>Black Panther: Wakanda Forever</originaltitle>
+            <director>
+                <director id="96">
+                    <ime>Ryan</ime>
+                    <prezime>Coogler</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="93">
+                    <ime>Martin</ime>
+                    <prezime>Freeman</prezime>
+                </actors>
+                <actors id="94">
+                    <ime></ime>
+                    <prezime>Letitia Wright</prezime>
+                </actors>
+                <actors id="95">
+                    <ime></ime>
+                    <prezime>Angela Bassett</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0eeda89f-6e72-402c-9e82-47809a11ac6c.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/black-panther-wakanda-zauvijek/8278//1</link>
+            <openingdate>10.11.2022</openingdate>
+        </movie>
+        <movie>
+            <id>38</id>
+            <title>Black Panther: Wakanda Zauvijek 3D</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Nastavak filma Black Panther iz 2018. godine koji je diljem svijeta zaradio preko $1.34 milijarde dolara. Film je oduševio kritičare i publiku, a na Rotten Tomatoes drži 96%. Uz to, film je osvojio i tri Oscara, za najbolju originalnu glazbu, najbolji dizajn kostima i najbolju scenografiju.&lt;br /&gt;
+U novom nastavku Marvel Studios neće promijeniti lik, već će istražiti svijet Wakande i likove predstavljene u prvom filmu.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 10.11.202</description>
+            <originaltitle>Black Panther: Wakanda Forever 3D</originaltitle>
+            <director>
+                <director id="96">
+                    <ime>Ryan</ime>
+                    <prezime>Coogler</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="93">
+                    <ime>Martin</ime>
+                    <prezime>Freeman</prezime>
+                </actors>
+                <actors id="94">
+                    <ime></ime>
+                    <prezime>Letitia Wright</prezime>
+                </actors>
+                <actors id="95">
+                    <ime></ime>
+                    <prezime>Angela Bassett</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0eeda89f-6e72-402c-9e82-47809a11ac6c.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/black-panther-wakanda-zauvijek-3d/8279//1</link>
+            <openingdate>10.11.2022</openingdate>
+        </movie>
+        <movie>
+            <id>39</id>
+            <title>Black Panther: Wakanda Zauvijek 3D 4DX</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Nastavak filma Black Panther iz 2018. godine koji je diljem svijeta zaradio preko $1.34 milijarde dolara. Film je oduševio kritičare i publiku, a na Rotten Tomatoes drži 96%. Uz to, film je osvojio i tri Oscara, za najbolju originalnu glazbu, najbolji dizajn kostima i najbolju scenografiju.&lt;br /&gt;
+U novom nastavku Marvel Studios neće promijeniti lik, već će istražiti svijet Wakande i likove predstavljene u prvom filmu.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 10.11.202</description>
+            <originaltitle>Black Panther: Wakanda Forever 3D 4DX</originaltitle>
+            <director>
+                <director id="96">
+                    <ime>Ryan</ime>
+                    <prezime>Coogler</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="93">
+                    <ime>Martin</ime>
+                    <prezime>Freeman</prezime>
+                </actors>
+                <actors id="94">
+                    <ime></ime>
+                    <prezime>Letitia Wright</prezime>
+                </actors>
+                <actors id="95">
+                    <ime></ime>
+                    <prezime>Angela Bassett</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0eeda89f-6e72-402c-9e82-47809a11ac6c.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/black-panther-wakanda-zauvijek-3d-4dx/8280//1</link>
+            <openingdate>10.11.2022</openingdate>
+        </movie>
+        <movie>
+            <id>40</id>
+            <title>Black Panther: Wakanda Zauvijek 3D IMAX</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Nastavak filma Black Panther iz 2018. godine koji je diljem svijeta zaradio preko $1.34 milijarde dolara. Film je oduševio kritičare i publiku, a na Rotten Tomatoes drži 96%. Uz to, film je osvojio i tri Oscara, za najbolju originalnu glazbu, najbolji dizajn kostima i najbolju scenografiju.&lt;br /&gt;
+U novom nastavku Marvel Studios neće promijeniti lik, već će istražiti svijet Wakande i likove predstavljene u prvom filmu.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 10.11.202</description>
+            <originaltitle>Black Panther: Wakanda Forever 3D IMAX</originaltitle>
+            <director>
+                <director id="96">
+                    <ime>Ryan</ime>
+                    <prezime>Coogler</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="93">
+                    <ime>Martin</ime>
+                    <prezime>Freeman</prezime>
+                </actors>
+                <actors id="94">
+                    <ime></ime>
+                    <prezime>Letitia Wright</prezime>
+                </actors>
+                <actors id="95">
+                    <ime></ime>
+                    <prezime>Angela Bassett</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0eeda89f-6e72-402c-9e82-47809a11ac6c.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/black-panther-wakanda-zauvijek-3d-imax/8281//1</link>
+            <openingdate>10.11.2022</openingdate>
+        </movie>
+        <movie>
+            <id>41</id>
+            <title>Dijamantni pir</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Osebujni voditelji Royal baleta vode večer koju ne smijete propustiti, a njihovi nevjerojatni talenti savršeno odgovaraju dijamantnom piru. Slaveći šezdesetu godišnjicu Prijatelja Covent Gardena, ovaj program je svojevrsna zahvala svim sponzorima Royal Opera Housea, na nevjerojatno podršci svih godina kao i ubuduće.&lt;br /&gt;
+Nastup će predstaviti širinu i raznolikost repertoara Royal baleta u klasičnim, suvremenim i baštinskim djelima. Također će uključivati ??svjetske premijere kratkih baleta koreografa Pam Tanowitz, Josepha Toonge i Valentina Zucchettija, kao i prvu izvedbu &lt;em&gt;Za četvero &lt;/em&gt; umjetničkog suradnika Royal baleta, Christophera Wheeldona te izvedbu “Dijamanti” Georgea Balanchinea.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 16.11.202</description>
+            <originaltitle>The Royal Ballet: A Diamond Celebration</originaltitle>
+            <director>
+                <director id="97">
+                    <ime>Christopher</ime>
+                    <prezime>Wheeldon</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>0</duration>
+            <genre>
+                <genre id="16">
+                    <name>balet</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/dijamantni-pir/8322//1</link>
+            <openingdate>16.11.2022</openingdate>
+        </movie>
+        <movie>
+            <id>42</id>
+            <title>Dijamantska proslava</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Fantastični direktori Royal baleta vode veče koje ne smete propustiti, a njihovi neverovatni talenti savršeno odgovaraju dijamantskoj godišnjici. Slaveći šezdesetu godišnjicu Prijatelja Covent Gardena, ovaj program je svojevrsna zahvalnica svim sponzorima Royal Opera House-a, na neverovatnoj podršci tokom godina, kao i ubuduće.&lt;br /&gt;
+Nastup će predstaviti širinu i raznolikost repertoara Royal baleta u klasičnim, savremenim i delima u nasleđe. Takođe će uključivati ??svetske premijere kratkih baleta koreografa Pam Tanowitz, Josepha Toonge i Valentina Zucchettija, kao i prvu izvedbu &lt;em&gt;Za četvero &lt;/em&gt; umetničkog saradnika Royal baleta, Christophera Wheeldona , kao i izvedbu “Dijamanti” Georgea Balanchinea.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 16.11.202</description>
+            <originaltitle>The Royal Ballet: A Diamond Celebration</originaltitle>
+            <director>
+                <director id="97">
+                    <ime>Christopher</ime>
+                    <prezime>Wheeldon</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>0</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/dijamantska-proslava/8309//1</link>
+            <openingdate>16.11.2022</openingdate>
+        </movie>
+        <movie>
+            <id>43</id>
+            <title>Meni</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Mladi par putuje na udaljeno ostrvo kako bi jeli u ekskluzivnom restoranu u kojem šef kuhinje priprema izvrsna jela, uz šokantna iznenađenja.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 17.11.202</description>
+            <originaltitle>The Menu</originaltitle>
+            <director>
+                <director id="102">
+                    <ime>Mark</ime>
+                    <prezime>Mylod</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="98">
+                    <ime>Anya</ime>
+                    <prezime>Taylor – Joy</prezime>
+                </actors>
+                <actors id="99">
+                    <ime></ime>
+                    <prezime>Nicholas Hoult</prezime>
+                </actors>
+                <actors id="100">
+                    <ime></ime>
+                    <prezime>Janet McTeer</prezime>
+                </actors>
+                <actors id="101">
+                    <ime></ime>
+                    <prezime>Ralph Fiennes</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="1">
+                    <name>komedija</name>
+                </genre>
+                <genre id="8">
+                    <name>horor</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\8fea377a-9554-4534-9d70-b451a5b2ea6c.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/meni/8344//1</link>
+            <openingdate>17.11.2022</openingdate>
+        </movie>
+        <movie>
+            <id>44</id>
+            <title>Šesti autobus</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Mlada Amerikanka pokušava pronaći čovjeka iz svoje prošlosti, koji nikad neće biti pronađen, i to tijekom najvećeg sukoba na europskom tlu od Drugog svjetskog rata – bitke za Vukovar. Riječ je o potrazi za identitetom i istinom na mjestu gdje je istina selektivna, neuhvatljiva i čak se boji. Ispod te potrage ključa potreba za vjerom, vezom i otkupljenjem.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 17.11.202</description>
+            <originaltitle>Šesti autobus</originaltitle>
+            <director>
+                <director id="108">
+                    <ime>Eduard</ime>
+                    <prezime>Galić</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="103">
+                    <ime>Zala</ime>
+                    <prezime>Đurić</prezime>
+                </actors>
+                <actors id="104">
+                    <ime></ime>
+                    <prezime>Marko Petrić</prezime>
+                </actors>
+                <actors id="105">
+                    <ime></ime>
+                    <prezime>Toni Gojanović</prezime>
+                </actors>
+                <actors id="106">
+                    <ime></ime>
+                    <prezime>Muhamed Hadžović</prezime>
+                </actors>
+                <actors id="107">
+                    <ime></ime>
+                    <prezime>Filip Mayer</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="2">
+                    <name>drama</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\943bcdc4-aba3-417c-824c-9df11f894c1c.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/sesti-autobus/8297//1</link>
+            <openingdate>17.11.2022</openingdate>
+        </movie>
+        <movie>
+            <id>45</id>
+            <title>Krcko Oraščić</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Pridružite se Klari na očaravajućoj Božićnoj žurci koja postaje čarobna pustolovina nakon što svi ostali zaspu. Neka vas ponese briljantna muzika Čajkovskog, dok se Klara i njen začarani Krcko Oraščić bore protiv kralja miševa i posećuju vilu šećerne šljive i njenog princa u blještavom kraljevstvu slatkiša. Omiljena produkcija Petera Wrighta za Royal balet, s predivnom scenografijom Julije Trevelyan Oman, ostaje verna duhu ovog svečanog baletnog klasika, kombinujući čaroliju bajke sa spektakularnim klasičnim plesom.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 8.12.202</description>
+            <originaltitle>The Nutcracker</originaltitle>
+            <director>
+                <director id="109">
+                    <ime>Peter</ime>
+                    <prezime>Wright</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>165</duration>
+            <genre>
+                <genre id="16">
+                    <name>balet</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/krcko-orascic/8310//1</link>
+            <openingdate>8.12.2022</openingdate>
+        </movie>
+        <movie>
+            <id>46</id>
+            <title>Orašar</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Pridružite se Clari na Badnjak, kad prekrasna zabavcaa postaje čarobna pustolovina nakon što svi ostali zaspu. Neka vas ponese briljantna glazba Čajkovskog, dok se Clara i njezin začarani Orašar bore protiv kralja miševa i posjećuju vilu šećerne šljive i njezinog princa u blještavom kraljevstvu slatkiša. Omiljena produkcija Petera Wrighta za Royal balet, s prekrasnom scenografijom Julije Trevelyan Oman, ostaje vjerna duhu ovog svečanog baletnog klasika, kombinirajući čaroliju bajke sa spektakularnim klasičnim plesom.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 8.12.202</description>
+            <originaltitle>The Nutcracker</originaltitle>
+            <director>
+                <director id="109">
+                    <ime>Peter</ime>
+                    <prezime>Wright</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>165</duration>
+            <genre>
+                <genre id="16">
+                    <name>balet</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/orasar/8323//1</link>
+            <openingdate>8.12.2022</openingdate>
+        </movie>
+        <movie>
+            <id>47</id>
+            <title>Avatar: Put vode</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Radnja filma „Avatar: Put vode“ odvija se više od jednog desetljeća nakon događaja iz prvog dijela.&lt;br /&gt;
+Otkad je odlučio trajno prenijeti ljudsku svijest u svoje tijelo Avatara i postati novi vođa naroda Na’vi, Jake Sully živi sa svojom obitelji na Pandori. On i Neytiri su osnovali obitelj i dobili djecu. Kolonizirajuće su se snage vratile na Pandoru kako bi završili prvotnu potragu za rijetkim mineralom, prisiljavajući Jakea i Neytiri da pobjegnu iz svog doma, istražujući do tada nepoznate dijelove Pandore gdje će se upoznati s ljudima Metkayine, klanom domorodaca koji žive okruženi morem.&lt;br /&gt;
+ &lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 15.12.202</description>
+            <originaltitle>Avatar: The Way of Water</originaltitle>
+            <director>
+                <director id="52">
+                    <ime>James</ime>
+                    <prezime>Cameron</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="49">
+                    <ime>Sam</ime>
+                    <prezime>Worthington</prezime>
+                </actors>
+                <actors id="50">
+                    <ime></ime>
+                    <prezime>Zoe Saldana</prezime>
+                </actors>
+                <actors id="110">
+                    <ime></ime>
+                    <prezime>Giovanni Ribisi</prezime>
+                </actors>
+                <actors id="111">
+                    <ime></ime>
+                    <prezime>Stephen Lang</prezime>
+                </actors>
+                <actors id="112">
+                    <ime></ime>
+                    <prezime>Vin Diesel</prezime>
+                </actors>
+                <actors id="113">
+                    <ime></ime>
+                    <prezime>Michelle Yeoh</prezime>
+                </actors>
+                <actors id="114">
+                    <ime></ime>
+                    <prezime>Kate Winslet</prezime>
+                </actors>
+                <actors id="51">
+                    <ime></ime>
+                    <prezime>Sigourney Weaver</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\1d996513-19e6-40c5-bdfe-777fd214ba65.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode/8207//1</link>
+            <openingdate>15.12.2022</openingdate>
+        </movie>
+        <movie>
+            <id>48</id>
+            <title>Avatar: Put vode 3D</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Džejk Sali živi sa svojom porodicom na planeti Pandori. Kada se vrati poznati neprijatelj koji pokušava da ih uništi, Džejk i Nejtiri se udružuju sa vojskom Navi naroda kako bi zaštitili svoju planetu.&lt;/div&gt;
+
+&lt;br /&gt;Početak prikazivanja: 15.12.202</description>
+            <originaltitle>Avatar: The Way of Water 3D</originaltitle>
+            <director>
+                <director id="52">
+                    <ime>James</ime>
+                    <prezime>Cameron</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="49">
+                    <ime>Sam</ime>
+                    <prezime>Worthington</prezime>
+                </actors>
+                <actors id="50">
+                    <ime></ime>
+                    <prezime>Zoe Saldana</prezime>
+                </actors>
+                <actors id="110">
+                    <ime></ime>
+                    <prezime>Giovanni Ribisi</prezime>
+                </actors>
+                <actors id="111">
+                    <ime></ime>
+                    <prezime>Stephen Lang</prezime>
+                </actors>
+                <actors id="112">
+                    <ime></ime>
+                    <prezime>Vin Diesel</prezime>
+                </actors>
+                <actors id="113">
+                    <ime></ime>
+                    <prezime>Michelle Yeoh</prezime>
+                </actors>
+                <actors id="114">
+                    <ime></ime>
+                    <prezime>Kate Winslet</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\1d996513-19e6-40c5-bdfe-777fd214ba65.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode-3d/8214//1</link>
+            <openingdate>15.12.2022</openingdate>
+        </movie>
+        <movie>
+            <id>49</id>
+            <title>Avatar: Put vode 3D 4DX</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Radnja filma „Avatar: Put vode“ odvija se više od jednog desetljeća nakon događaja iz prvog dijela.&lt;br /&gt;
+Otkad je odlučio trajno prenijeti ljudsku svijest u svoje tijelo Avatara i postati novi vođa naroda Na’vi, Jake Sully živi sa svojom obitelji na Pandori. On i Neytiri su osnovali obitelj i dobili djecu. Kolonizirajuće su se snage vratile na Pandoru kako bi završili prvotnu potragu za rijetkim mineralom, prisiljavajući Jakea i Neytiri da pobjegnu iz svog doma, istražujući do tada nepoznate dijelove Pandore gdje će se upoznati s ljudima Metkayine, klanom domorodaca koji žive okruženi morem.&lt;br /&gt;
+ &lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 15.12.202</description>
+            <originaltitle>Avatar: The Way of Water 3D 4DX</originaltitle>
+            <director>
+                <director id="52">
+                    <ime>James</ime>
+                    <prezime>Cameron</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="49">
+                    <ime>Sam</ime>
+                    <prezime>Worthington</prezime>
+                </actors>
+                <actors id="50">
+                    <ime></ime>
+                    <prezime>Zoe Saldana</prezime>
+                </actors>
+                <actors id="110">
+                    <ime></ime>
+                    <prezime>Giovanni Ribisi</prezime>
+                </actors>
+                <actors id="111">
+                    <ime></ime>
+                    <prezime>Stephen Lang</prezime>
+                </actors>
+                <actors id="112">
+                    <ime></ime>
+                    <prezime>Vin Diesel</prezime>
+                </actors>
+                <actors id="113">
+                    <ime></ime>
+                    <prezime>Michelle Yeoh</prezime>
+                </actors>
+                <actors id="114">
+                    <ime></ime>
+                    <prezime>Kate Winslet</prezime>
+                </actors>
+                <actors id="51">
+                    <ime></ime>
+                    <prezime>Sigourney Weaver</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\1d996513-19e6-40c5-bdfe-777fd214ba65.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode-3d-4dx/8209//1</link>
+            <openingdate>15.12.2022</openingdate>
+        </movie>
+        <movie>
+            <id>50</id>
+            <title>Avatar: Put vode 3D IMAX</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Radnja filma „Avatar: Put vode“ odvija se više od jednog desetljeća nakon događaja iz prvog dijela.&lt;br /&gt;
+Otkad je odlučio trajno prenijeti ljudsku svijest u svoje tijelo Avatara i postati novi vođa naroda Na’vi, Jake Sully živi sa svojom obitelji na Pandori. On i Neytiri su osnovali obitelj i dobili djecu. Kolonizirajuće su se snage vratile na Pandoru kako bi završili prvotnu potragu za rijetkim mineralom, prisiljavajući Jakea i Neytiri da pobjegnu iz svog doma, istražujući do tada nepoznate dijelove Pandore gdje će se upoznati s ljudima Metkayine, klanom domorodaca koji žive okruženi morem.&lt;br /&gt;
+ &lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 15.12.202</description>
+            <originaltitle>Avatar: The Way of Water 3D IMAX</originaltitle>
+            <director>
+                <director id="52">
+                    <ime>James</ime>
+                    <prezime>Cameron</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="49">
+                    <ime>Sam</ime>
+                    <prezime>Worthington</prezime>
+                </actors>
+                <actors id="50">
+                    <ime></ime>
+                    <prezime>Zoe Saldana</prezime>
+                </actors>
+                <actors id="110">
+                    <ime></ime>
+                    <prezime>Giovanni Ribisi</prezime>
+                </actors>
+                <actors id="111">
+                    <ime></ime>
+                    <prezime>Stephen Lang</prezime>
+                </actors>
+                <actors id="112">
+                    <ime></ime>
+                    <prezime>Vin Diesel</prezime>
+                </actors>
+                <actors id="113">
+                    <ime></ime>
+                    <prezime>Michelle Yeoh</prezime>
+                </actors>
+                <actors id="114">
+                    <ime></ime>
+                    <prezime>Kate Winslet</prezime>
+                </actors>
+                <actors id="51">
+                    <ime></ime>
+                    <prezime>Sigourney Weaver</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+                <genre id="12">
+                    <name>SF</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\4e2a05e0-67cf-46b4-a0c6-163c7a81af29.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/avatar-put-vode-3d-imax/8210//1</link>
+            <openingdate>15.12.2022</openingdate>
+        </movie>
+        <movie>
+            <id>51</id>
+            <title>Shazam! Bijes Bogova</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Ulogu naslovnog heroja u Shazamu 2 će ponovno imati Zachary Levi, a očekuje se da će mu se pridružiti i Asher Angel i Jack Dylan Grazer. David F. Sandberg vratit će se režiji nastavka nakon što je prvi film zaradio $365 milijuna širom svijeta. Henry Gayden se vraća kao scenarist.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 22.12.202</description>
+            <originaltitle>Shazam! Fury of the Gods</originaltitle>
+            <director>
+                <director id="118">
+                    <ime>David</ime>
+                    <prezime>F. Sandberg</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="115">
+                    <ime>Zachary</ime>
+                    <prezime>Levi</prezime>
+                </actors>
+                <actors id="116">
+                    <ime>Helen</ime>
+                    <prezime>Mirren</prezime>
+                </actors>
+                <actors id="117">
+                    <ime></ime>
+                    <prezime>Lucy Liu</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\4e2a05e0-67cf-46b4-a0c6-163c7a81af29.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/shazam-bijes-bogova/8282//1</link>
+            <openingdate>22.12.2022</openingdate>
+        </movie>
+        <movie>
+            <id>52</id>
+            <title>Shazam! Bijes Bogova 3D IMAX</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Ulogu naslovnog heroja u Shazamu 2 će ponovno imati Zachary Levi, a očekuje se da će mu se pridružiti i Asher Angel i Jack Dylan Grazer. David F. Sandberg vratit će se režiji nastavka nakon što je prvi film zaradio $365 milijuna širom svijeta. Henry Gayden se vraća kao scenarist.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 22.12.202</description>
+            <originaltitle>Shazam! Fury of the Gods 3D IMAX</originaltitle>
+            <director>
+                <director id="118">
+                    <ime>David</ime>
+                    <prezime>F. Sandberg</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="115">
+                    <ime>Zachary</ime>
+                    <prezime>Levi</prezime>
+                </actors>
+                <actors id="116">
+                    <ime>Helen</ime>
+                    <prezime>Mirren</prezime>
+                </actors>
+                <actors id="117">
+                    <ime></ime>
+                    <prezime>Lucy Liu</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\4e2a05e0-67cf-46b4-a0c6-163c7a81af29.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/shazam-bijes-bogova-3d-imax/8285//1</link>
+            <openingdate>22.12.2022</openingdate>
+        </movie>
+        <movie>
+            <id>53</id>
+            <title>Šazam! Gnev Bogova</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Ulogu naslovnog heroja u Šazamu 2 će ponovno imati Zakari Levi, a očekuje se da će mu se pridružiti i Ašer Ejndžl i Džek Dila Grejzer. David F. Sandberg vratiće se režiji nastavka nakon što je prvi film zaradio $365 miliona širom sveta. Henri Gajden se vraća kao scenarista.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 22.12.202</description>
+            <originaltitle>Shazam! Fury of the Gods</originaltitle>
+            <director>
+                <director id="118">
+                    <ime>David</ime>
+                    <prezime>F. Sandberg</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="115">
+                    <ime>Zachary</ime>
+                    <prezime>Levi</prezime>
+                </actors>
+                <actors id="116">
+                    <ime>Helen</ime>
+                    <prezime>Mirren</prezime>
+                </actors>
+                <actors id="117">
+                    <ime></ime>
+                    <prezime>Lucy Liu</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\4e2a05e0-67cf-46b4-a0c6-163c7a81af29.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/sazam-gnev-bogova/8334//1</link>
+            <openingdate>22.12.2022</openingdate>
+        </movie>
+        <movie>
+            <id>54</id>
+            <title>Šazam! Gnev Bogova 4DX</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Ulogu naslovnog heroja u Šazamu 2 će ponovno imati Zakari Levi, a očekuje se da će mu se pridružiti i Ašer Ejndžl i Džek Dila Grejzer. David F. Sandberg vratiće se režiji nastavka nakon što je prvi film zaradio $365 miliona širom sveta. Henri Gajden se vraća kao scenarista.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 22.12.202</description>
+            <originaltitle>Shazam! Fury of the Gods 4DX</originaltitle>
+            <director>
+                <director id="118">
+                    <ime>David</ime>
+                    <prezime>F. Sandberg</prezime>
+                </director>
+            </director>
+            <actors>
+                <actors id="115">
+                    <ime>Zachary</ime>
+                    <prezime>Levi</prezime>
+                </actors>
+                <actors id="116">
+                    <ime>Helen</ime>
+                    <prezime>Mirren</prezime>
+                </actors>
+                <actors id="117">
+                    <ime></ime>
+                    <prezime>Lucy Liu</prezime>
+                </actors>
+            </actors>
+            <duration>0</duration>
+            <genre>
+                <genre id="6">
+                    <name>akcija</name>
+                </genre>
+                <genre id="11">
+                    <name>avantura</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\4e2a05e0-67cf-46b4-a0c6-163c7a81af29.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/sazam-gnev-bogova-4dx/8335//1</link>
+            <openingdate>22.12.2022</openingdate>
+        </movie>
+        <movie>
+            <id>55</id>
+            <title>Kao voda za čokoladu</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Moderni meksički klasik čarobnog realizma temelj je nove baletske predstave Royal baleta. Ponovo je ujedinio umetničkog saradnika Christophera Wheeldona sa kreativnim timom koji je do sada uspešno pretvorio &lt;em&gt;Alisu u zemlji čuda&lt;/em&gt; i &lt;em&gt;Zimsku bajku&lt;/em&gt; – u ples, a to su kompozitor Joby Talbor i scenograf Bob Crowley.&lt;br /&gt;
+Balet je inspirisan romanom Laure Esquivel – zadivljujućom porodičnom sagom u kojoj središnji lik svoje emocije  dočarava kroz kuvanje i na taj, zapanjujuć i dramatičan način, utiče na sve oko sebe.&lt;br /&gt;
+U ovoj koprodukciji sa Američkim baletnim pozorištem, meksički dirigent Alondra de la Parra takođe sarađuje kao muzički savetnik za Talbotovu novu partituru, a Wheeldon je blisko sarađivao s Esquivel kako bi njenu bogatu slojevitu priču pretvorio u zabavni i zadivljujući novi balet.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 19.1.202</description>
+            <originaltitle>Like Water For Chocolate</originaltitle>
+            <director>
+                <director id="119">
+                    <ime>Alondra</ime>
+                    <prezime>de la Parra</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>190</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/kao-voda-za-cokoladu/8311//1</link>
+            <openingdate>19.1.2023</openingdate>
+        </movie>
+        <movie>
+            <id>56</id>
+            <title>Seviljski Berberin</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Kad se Rosina zaljubi u tajanstvenog mladog udvarača koji sebe naziva Lindoro, mora upotrebiti svu svoju lukavost – i malu pomoć svog lokalnog berbera – kako bi nadmudrila svog proračunatog staratelja dr. Bartola.&lt;br /&gt;
+Očekujte dirljive serenade, smešne maske i završetak kao iz bajke koji vas čeka nadomak ruke.&lt;br /&gt;
+Od berberove slavne uvodne pesme Largo al factotum, sa povikom Figaro! Figaro!, do Rosinine živahne arije Una voce poco fa, komična opera Gioachina Rossinija je vanserijski zabavna! Rafael Payare debitovao je ovom operom u Royal Opera House uz izvanrednu međunarodnu postavu koja uključuje Andrzeja Filończyka, Aigul Akhmetshinu, Lawrencea Brownleeja i Bryn Terfel.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 15.2.202</description>
+            <originaltitle>The Barber of Seville</originaltitle>
+            <director>
+                <director id="120">
+                    <ime>Moshe</ime>
+                    <prezime>Leiser i Patrice Caurier</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>225</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/seviljski-berberin/8312//1</link>
+            <openingdate>15.2.2023</openingdate>
+        </movie>
+        <movie>
+            <id>57</id>
+            <title>Seviljski brijač</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Kad se Rosina zaljubi u tajanstvenog mladog udvarača koji sebe naziva Lindoro, mora upotrijebiti svu svoju lukavost – i malu pomoć svog lokalnog brijača – kako bi nadmudrila svog proračunatog skrbnika dr. Bartola.&lt;br /&gt;
+Očekujte dirljive serenade, smiješne maske i završetak kao iz bajke koji vas čeka nadomak ruke.&lt;br /&gt;
+Od brijačeve slavne uvodne pjesme Largo al factotum, s povikom Figaro! Figaro!, do Rosinine živahne arije Una voce poco fa, komična opera Gioachina Rossinija je vanserijski zabavna! Rafael Payare debitirao je ovom operom u Royal Opera House uz izvanrednu međunarodnu postavu koja uključuje Andrzeja Filończyka, Aigul Akhmetshinu, Lawrencea Brownleeja i Bryn Terfel.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 15.2.202</description>
+            <originaltitle>The Barber of Seville</originaltitle>
+            <director>
+                <director id="120">
+                    <ime>Moshe</ime>
+                    <prezime>Leiser i Patrice Caurier</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>225</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/seviljski-brijac/8325//1</link>
+            <openingdate>15.2.2023</openingdate>
+        </movie>
+        <movie>
+            <id>58</id>
+            <title>Turandot</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Na dvoru princeze Turandot, prosioce koji ne uspeju rešiti njene zagonetke, brutalno ubijaju.&lt;br /&gt;
+Ali kada misteriozni princ odgovori tačno, odjednom postaje moćan - i čuva slavnu tajnu.&lt;br /&gt;
+ &lt;br /&gt;
+Kad život visi o koncu, može li ljubav sve pobediti?&lt;br /&gt;
+ &lt;br /&gt;
+Puccinijeva partitura bogata je muzičkim čudesima (sadrži poznatu ariju Nessun dorma), dok se produkcija Andreja Serbana oslanja na kinesku pozorišnu tradiciju kako bi dočarala živopisnu šarenoliku sliku drevnog Pekinga. Antonio Pappano umetnički vodi Annu Pirozzi u naslovnoj ulozi te Yonghoona Leeja u ulozi Calafe.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 22.3.202</description>
+            <originaltitle>Turandot</originaltitle>
+            <director>
+                <director id="121">
+                    <ime>Andrei</ime>
+                    <prezime>Serban</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>200</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/turandot/8313//1</link>
+            <openingdate>22.3.2023</openingdate>
+        </movie>
+        <movie>
+            <id>59</id>
+            <title>Pepeljuga</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Pepeljuga koreografa utemeljivača Royal baleta, Fredericka Ashtona, ove sezone slavi 75. godišnjicu. Premijera baleta davne 1948., sa Moirom Shearer i Michaelom Somesom u glavnim ulogama, dočekana je s ovacijama. Nakon više od decenije odsutnosti s pozornice Royal Opera House-a, vraća se Ashtonova bezvremenska obrada slavne priče od-ničega-do-bogatstva Charlesa Perraulta, pokazujući koreografovu smelu muzikalnost i lepotu Prokofjevljeve transcendentne partiture. Iskorak kreativnog tima u čari pozorišta, filma, plesa i opere donosi novu atmosferu u Pepeljugin eterični svet kuma vila i kočija od bundeva, zgodnim prinčevima i pronalaskom prave ljubavi.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 12.4.202</description>
+            <originaltitle>Cinderella</originaltitle>
+            <director>
+                <director id="122">
+                    <ime>Frederick</ime>
+                    <prezime>Ashton</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>180</duration>
+            <genre>
+                <genre id="16">
+                    <name>balet</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/pepeljuga/8314//1</link>
+            <openingdate>12.4.2023</openingdate>
+        </movie>
+        <movie>
+            <id>60</id>
+            <title>Figarov pir</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Sluge Figaro i Susanna uzbuđeni su na dan svog vjenčanja, ali postoji začkoljica: njihov poslodavac, grof Almaviva, ima nečasne namjere prema budućoj nevjesti.&lt;br /&gt;
+S velikim brojem neočekivanih obrata, priča o Mozartovoj komičnoj operi iznenadit će vas i oduševiti u svakom trenutku. Dođite zbog glazbe i ostanite zbog smijeha, a sve se odvija tijekom jednog ludog, naopakog dana u kućanstvu Almaviva. Glazbeni ravnatelj Royal Opera Housea Antonio Pappano dirigira međunarodnom glumačkom ekipom u bezvremenskoj produkciji Davida McVicara.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 27.4.202</description>
+            <originaltitle>The Marriage of Figaro</originaltitle>
+            <director>
+                <director id="123">
+                    <ime>David</ime>
+                    <prezime>McVicar</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>0</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/figarov-pir/8328//1</link>
+            <openingdate>27.4.2023</openingdate>
+        </movie>
+        <movie>
+            <id>61</id>
+            <title>Figarova ženidba</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Sluge Figaro i Susanna uzbuđeni su na dan svog venčanja, ali postoji začkoljica: njihov poslodavac, grof Almaviva, ima nečasne namere prema budućoj nevesti.&lt;br /&gt;
+Uz više neočekivanih obrta, priča o Mozartovoj komičnoj operi iznenadiće vas i oduševiti u svakom trenu. Dođite zbog muzike i ostanite zbog smeha, a sve se odvija tokom jednog haotičnog, naopakog dana u domaćinstvu Almaviv-ovih. Muzički direktor Royal Opera Housea Antonio Pappano diriguje međunarodnom glumačkom ekipom u bezvremenskoj produkciji Davida McVicara.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 27.4.202</description>
+            <originaltitle>The Marriage of Figaro</originaltitle>
+            <director>
+                <director id="123">
+                    <ime>David</ime>
+                    <prezime>McVicar</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>0</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/figarova-zenidba/8315//1</link>
+            <openingdate>27.4.2023</openingdate>
+        </movie>
+        <movie>
+            <id>62</id>
+            <title>Trnoružica</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Uspavana ljepotica ima vrlo posebno mjesto u srcu i povijesti Royal baleta.&lt;br /&gt;
+Bila je to prva izvedba ansambla u  ovoj opernoj kući 1946. godine, nakon završetka Drugog svjetskog rata. Godine 2006. ponovno su oživjeli  ovaj balet i od tada uvijek iznova oduševljava publiku. Frederick Ashton izvrsno je prenio čisti klasicizam baleta Mariusa Petipe iz 19. stoljeća pretvorivši je u privatnu lekciju nama, o atmosferičnoj umjetnosti i zanatu koreografije. Neka vas oduševi zanosna glazba Čajkovskog i raskošna bajkovita scenografija Olivera Messela uz ovaj istinski dragulj klasičnog baleta.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 24.5.202</description>
+            <originaltitle>The Sleeping Beauty</originaltitle>
+            <director>
+                <director id="124">
+                    <ime>Marius</ime>
+                    <prezime>Petipa</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>205</duration>
+            <genre>
+                <genre id="16">
+                    <name>balet</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/trnoruzica/8329//1</link>
+            <openingdate>24.5.2023</openingdate>
+        </movie>
+        <movie>
+            <id>63</id>
+            <title>Uspavana lepotica</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;&lt;em&gt;Uspavana lepotica&lt;/em&gt; ima veoma posebno mesto u srcu i istoriji Royal baleta.&lt;br /&gt;
+Bila je to prva izvedba ansambla u ovoj opernoj kući 1946. godine, nakon završetka Drugog svetskog rata. Godine 2006. ponovo su oživeli ovaj balet i od tada uvek iznova oduševljava publiku. Frederick Ashton izvrsno je preneo čist klasicizam baleta Mariusa Petipe iz 19. veka pretvorivši je u privatnu lekciju nama, o atmosferičnoj umetnosti i majstorstvu koreografije. Neka vas oduševi zanosna muzika Čajkovskog i raskošna bajkovita scenografija Olivera Messela uz ovaj istinski dragulj klasičnog baleta.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 24.5.202</description>
+            <originaltitle>The Sleeping Beauty</originaltitle>
+            <director>
+                <director id="124">
+                    <ime>Marius</ime>
+                    <prezime>Petipa</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>205</duration>
+            <genre>
+                <genre id="16">
+                    <name>balet</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/uspavana-lepotica/8316//1</link>
+            <openingdate>24.5.2023</openingdate>
+        </movie>
+        <movie>
+            <id>64</id>
+            <title>Trubadur</title>
+            <publisheddate>2022-08-29T17:38:21</publisheddate>
+            <description>&lt;div style="text-align: justify;"&gt;Strasti su uzburkane dok se Manrico i grof di Luna takmiče za Leonorinu naklonost. Manricova majka Azucena decenijama je čuvala strašnu tajnu. Uskoro će se prokletstvo iz prošlosti dići iz pepela sa razornim posledicama za sve njih.&lt;br /&gt;
+S Ludovicom Tézierom i Jamiejem Bartonom u glavnim ulogama, energična inscenacija rediteljke Adele Thomas, postavlja Verdijevu priču u univerzum srednjovekovnog sujeverja nadahnut likovnim delima Hieronymusa Boscha. Antonio Pappano diriguje Verdijevom dramatičnom partiturom, koja sadrži i poznatu izvedbu hora Cigana.&lt;/div&gt;
+&lt;br /&gt;Početak prikazivanja: 13.6.202</description>
+            <originaltitle>Il Trovatore</originaltitle>
+            <director>
+                <director id="125">
+                    <ime>Adele</ime>
+                    <prezime>Thomas</prezime>
+                </director>
+            </director>
+            <actors/>
+            <duration>205</duration>
+            <genre>
+                <genre id="13">
+                    <name>opera</name>
+                </genre>
+            </genre>
+            <picturepath>src\assets\0cedb4c3-556e-4a29-b4cb-1f198754575f.jpg</picturepath>
+            <link>https://www.blitz-cinestar.hr/root/trubadur/8317//1</link>
+            <openingdate>13.6.2023</openingdate>
+        </movie>
+    </movies>
+</moviearchive>
